@@ -26,6 +26,6 @@ Hi there! 👋 I'm Chintakindi Bhargav Sri Harshith, a soon-to-be graduate with 
 ## Get in Touch
 
 - LinkedIn: [HARSHITH CHINTAKINDI](https://www.linkedin.com/in/harshith-chintakindi-7583821b3/)
-- Email: [chintakindibhargav@2016@gmail.com](mailto:chintakindibhargav2016@gmail.com)
+- Email: [chintakindibhargav2016@gmail.com](mailto:chintakindibhargav2016@gmail.com)
 
 Feel free to explore my repositories and connect with me! I'm eager to learn, grow, and contribute to the world of software development. 😊
