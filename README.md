@@ -16,7 +16,7 @@ Hi there! 👋 I'm Chintakindi Bhargav Sri Harshith, a soon-to-be graduate with 
 
 - **Programming Languages:** Java, Python, C
 - **Testing Frameworks:** Selenium WebDriver
-- **Web Development:** HTML/CSS, JavaScript(learning)
+- **Web Development:** HTML, CSS, JavaScript, React
 - **Version Control:** Git
 
 
