@@ -6,7 +6,7 @@ Hi there! 👋 I'm Chintakindi Bhargav Sri Harshith, a soon-to-be graduate with 
 ## About
 
 - 🎓 I'm currently pursuing a degree in Artificial Intelligence and Data Science from CMR Institute Of Technology, Hyderabad. Expected graduation: May, 2025.
-- 💻 I'm eager to embark on my career in software development and testing.
+- 💻 I'm eager to embark on my career in software development and software engineering.
 - 🌱 I'm actively learning and honing my skills in preparation for my transition into the industry.
 - 🔭 I’m currently working on personal projects to strengthen my programming abilities and gain practical experience.
 - 💡 I'm committed to writing clean, efficient code and solving interesting problems.
@@ -14,10 +14,10 @@ Hi there! 👋 I'm Chintakindi Bhargav Sri Harshith, a soon-to-be graduate with 
 
 ## Skills
 
-- **Programming Languages:** Java, Python, C
+- **Programming Languages:** Python, Java, C
 - **Testing Frameworks:** Selenium WebDriver
 - **Web Development:** HTML, CSS, JavaScript, React
-- **Version Control:** Git
+- **Version Control:** Git and GitHub
 
 
 ## Projects
