@@ -1,23 +1,24 @@
-# About Me
+# 👋 About Me
 
-Hi there! 👋 I'm Chintakindi Bhargav Sri Harshith, a soon-to-be graduate with a passion for software development and testing. Welcome to my GitHub profile!
+Hi there! I'm **Harshith Chintakindi**, a graduate in **Artificial Intelligence and Data Science**, with a strong interest in solving real-world problems through **Machine Learning** and intelligent systems.
 
 
-## About
+## 🧠 About
 
-- 🎓 I'm currently pursuing a degree in Artificial Intelligence and Data Science from CMR Institute Of Technology, Hyderabad. Expected graduation: May, 2025.
-- 💻 I'm eager to embark on my career in software development and software engineering.
-- 🌱 I'm actively learning and honing my skills in preparation for my transition into the industry.
-- 🔭 I’m currently working on personal projects to strengthen my programming abilities and gain practical experience.
-- 💡 I'm committed to writing clean, efficient code and solving interesting problems.
+- 🎓 Graduated in **AI & Data Science** from **CMR Institute of Technology, Hyderabad** *(Class of 2025)*
+- 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Data Analysis**
+- 💻 Proficient in **Python**, with working knowledge of **Java** and **C++**
+- 🔬 Currently working on **personal ML projects** to sharpen my practical skills
+- 🚀 Seeking opportunities in **Machine Learning Engineering** and **AI-driven software development**
+- 🛠️ Committed to writing clean, efficient code and building meaningful solutions
 
 
 ## Skills
 
-- **Programming Languages:** Python, C++, Java
-- **Testing Frameworks:** Selenium WebDriver
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Version Control:** Git and GitHub
+- **Programming Languages:** Python, C++, Java, and SQL
+- **Frontend Development:** HTML5, CSS3, JavaScript, and React.js
+- **Tools and Platforms:** Git, GitHub, VS Code, and Selenium
+- **Libraries and Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-learn, Tensorflow, and PDAL
 
 
 ## Projects
