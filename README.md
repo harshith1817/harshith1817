@@ -1,38 +1,43 @@
-# 👋 About Me
+# 👋 About Me  
 
-Hi there! I'm **Harshith Chintakindi**, a graduate in **Artificial Intelligence and Data Science**, with a strong interest in solving real-world problems through **Machine Learning** and intelligent systems.
-
-
-## 🧠 About
-
-- 🎓 Graduated in **AI & Data Science** from **CMR Institute of Technology, Hyderabad** *(Class of 2025)*
-- 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Data Analysis**
-- 💻 Proficient in **Python**, with working knowledge of **Java** and **C++**
-- 🔬 Currently working on **personal ML projects** to sharpen my practical skills
-- 🚀 Seeking opportunities in **Machine Learning Engineering** and **AI-driven software development**
-- 🛠️ Committed to writing clean, efficient code and building meaningful solutions
+Hi there! I'm **Harshith Chintakindi**, a graduate in **Artificial Intelligence and Data Science**, focused on building **machine learning and AI-powered systems** that solve real-world problems through data-driven insights and intelligent automation.
 
 
-## Skills
+## 🧠 About  
 
-- **Programming Languages:** Python, C++, Java, and SQL
-- **Frontend Development:** HTML5, CSS3, JavaScript, and React.js
-- **Tools and Platforms:** Git, GitHub, VS Code, and Selenium
-- **Libraries and Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-learn, Tensorflow, and PDAL
-
-
-## Projects
-
-- [Automation Testing of AbhiBus](https://github.com/harshith1817/AbhiBusAutomation): This project contains Selenium WebDriver scripts for automating testing of the AbhiBus ticket booking website. With a focus on login, search, seat selection, payment, and confirmation processes, it ensures robustness and reliability.
-- [College Website Frontend Clone](https://github.com/harshith1817/CMRITHYD_CLONE): The College Website Frontend Clone project faithfully replicates CMR Institute of Technology, Hyderabad's website using HTML and CSS, showcasing modern web design techniques. Explore this frontend development showcase to experience the essence of CMR Institute of Technology, Hyderabad's online presence firsthand.
-- [Tic Tac Toe Game](https://github.com/harshith1817/TicTacToe): This project showcases my skills in front-end web technologies and demonstrates proficiency in creating interactive web interfaces. The website incorporates modern design principles, including clean layout, effective typography, and intuitive navigation.
-- [Portfolio](https://chbsh.vercel.app/): My portfolio, meticulously crafted using HTML, CSS, JavaScript, and React, serves as a dynamic platform to showcase my projects and skills, providing visitors with an immersive experience.
-- [CinemaSeek](https://cinema-seek.vercel.app/): The Movie Search Application is a React-based web app that enables users to search for movie details and save their favorites. With a responsive design and smooth loading animations, it provides an intuitive and engaging user experience.
+- 🎓 Graduated in **Artificial Intelligence and Data Science** from **CMR Institute of Technology, Hyderabad** *(Class of 2025)*  
+- 💡 Strong interest in **Machine Learning, Deep Learning, NLP, and Computer Vision**  
+- 💻 Proficient in **Python**, with experience in **Java, C++, JavaScript, and SQL**  
+- 🔬 Hands-on experience building **end-to-end ML pipelines, deep learning models, and deployed AI systems**  
+- 🚀 Actively seeking opportunities in **Machine Learning Engineering, Data Science, and AI-driven software development**  
+- 🛠️ Enjoy building scalable, data-driven applications with a focus on **clean code and real-world impact**
 
 
-## Get in Touch
+## Skills  
 
-- LinkedIn: [HARSHITH CHINTAKINDI](https://www.linkedin.com/in/harshith-chintakindi-7583821b3/)
-- Email: [chintakindibhargav2016@gmail.com](mailto:chintakindibhargav2016@gmail.com)
+- **Programming Languages:** Python, SQL, Java, C++  
+- **Machine Learning & AI:** Machine Learning, Deep Learning, Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Natural Language Processing (NLP), Computer Vision, Regression, Classification, Clustering, Feature Engineering, Model Training, Model Evaluation, Semantic Search  
+- **Libraries and Frameworks:** TensorFlow, Scikit-learn, Hugging Face Transformers, spaCy, OpenCV, NumPy, Pandas, Matplotlib, Seaborn  
+- **Web & Deployment:** HTML5, CSS3, JavaScript, React.js, FastAPI, REST APIs  
+- **Tools and Platforms:** Git, GitHub, VS Code, Selenium  
 
-Feel free to explore my repositories and connect with me! I'm eager to learn, grow, and contribute to the world of software development. 😊
+
+## Top Projects  
+
+- [Portfolio - AI Powered Portfolio Website with Personalized Chatbot](https://chbsh.vercel.app/): 
+  A full-stack AI portfolio platform featuring a personalized chatbot built using **FastAPI, SentenceTransformers, and a fine-tuned T5 model**. Implements a **retrieval-augmented generation (RAG)** pipeline to provide intelligent, real-time answers about my profile, skills, and projects. Deployed on **Vercel** (frontend) and **Hugging Face Spaces** (backend).
+
+- [Shopping Hard or Hardly Shopping – Customer Behavior Segmentation](https://github.com/harshith1817/ShoppingHard_or_HardlyShopping):
+  Led the final-year major project to build an e-commerce analytics system that processes **clickstream data** and applies **PAM clustering** to segment users into groups such as heavy buyers, browsers, and cart abandoners. Designed an end-to-end ML pipeline using **Python, Pandas, NumPy, and Matplotlib** with feature engineering and behavior analysis to support **data-driven marketing and recommendation strategies**.  
+
+- [CinemaSeek - Movie Discovery and Search Platform](https://cinema-seek.vercel.app/): 
+  Built a responsive **React-based web application** integrated with the **OMDb API** to provide real-time movie search, detailed metadata, and poster retrieval. Implemented asynchronous data fetching, state management, error handling, and a favorites system with a clean, mobile-friendly UI deployed on **Vercel**.  
+ 
+
+
+## Get in Touch  
+
+- **LinkedIn:** https://www.linkedin.com/in/chbsh
+- **Email:** chintakindibhargav2016@gmail.com  
+
+Feel free to explore my repositories and connect with me. I’m always excited to collaborate, learn, and build impactful AI-powered solutions 🚀
