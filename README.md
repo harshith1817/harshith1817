@@ -30,8 +30,8 @@ Hi there! I'm **Harshith Chintakindi**, a graduate in **Artificial Intelligence 
 - [Shopping Hard or Hardly Shopping – Customer Behavior Segmentation](https://github.com/harshith1817/ShoppingHard_or_HardlyShopping):
   Led the final-year major project to build an e-commerce analytics system that processes **clickstream data** and applies **PAM clustering** to segment users into groups such as heavy buyers, browsers, and cart abandoners. Designed an end-to-end ML pipeline using **Python, Pandas, NumPy, and Matplotlib** with feature engineering and behavior analysis to support **data-driven marketing and recommendation strategies**.  
 
-- [CinemaSeek - Movie Discovery and Search Platform](https://cinema-seek.vercel.app/): 
-  Built a responsive **React-based web application** integrated with the **OMDb API** to provide real-time movie search, detailed metadata, and poster retrieval. Implemented asynchronous data fetching, state management, error handling, and a favorites system with a clean, mobile-friendly UI deployed on **Vercel**.  
+- [ML Drift Monitor - Machine Learning Monitoring System - Movie Discovery and Search Platform](https://cinema-seek.vercel.app/): 
+  Built an end-to-end **ML monitoring pipeline** that trains models on tabular datasets and detects **feature, prediction and concept drift** using KS tests and Population Stability Index (PSI), generating automated drift reports for model reliability. 
  
 
 
