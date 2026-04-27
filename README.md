@@ -27,7 +27,7 @@ Hi there! I'm **Harshith Chintakindi**, a graduate in **Artificial Intelligence 
 - [Portfolio - AI Powered Portfolio Website with Personalized Chatbot](https://chbsh.vercel.app/): 
   A full-stack AI portfolio platform featuring a personalized chatbot built using **FastAPI, SentenceTransformers, and a fine-tuned T5 model**. Implements a **retrieval-augmented generation (RAG)** pipeline to provide intelligent, real-time answers about my profile, skills, and projects. Deployed on **Vercel** (frontend) and **Hugging Face Spaces** (backend).
 
-- [Memlore AI – Memory-Based Personal AI Assistant]((https://memlore.vercel.app/)):
+- [Memlore AI – Memory-Based Personal AI Assistant](https://memlore.vercel.app/):
   Developed a full-stack AI assistant that stores and retrieves user-specific memories using **natural language queries**. Built with **FastAPI, React, and PostgreSQL (Neon), the system uses NLP (spaCy)** and a custom memory retrieval pipeline to provide contextual, personalized responses. Implemented JWT authentication and OAuth (Google & GitHub), and deployed on Vercel (frontend) and Hugging Face Spaces (backend). 
 
 - [ML Drift Monitor - Machine Learning Monitoring System](https://ml-drift-monitor-harsh.streamlit.app/): 
