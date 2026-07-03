@@ -24,7 +24,7 @@ Hi there! I'm **Harshith Chintakindi**, a graduate in **Artificial Intelligence 
 
 ## Top Projects  
 
-- [Portfolio - AI-Powered Portfolio Website with ResuME](https://chbsh.vercel.app/):  
+- [Portfolio - AI-Powered Portfolio Website with ResuME](https://chbsh.vercel.app/):
   A full-stack AI portfolio platform featuring **ResuME**, a personalized AI assistant that evolved from a **RAG-based architecture** using **SentenceTransformers and a fine-tuned T5 model** to an **agent-based architecture** with dynamic planning, tool execution, multi-source retrieval, and LLM-powered responses. Built with **React.js and FastAPI**, and deployed on **Vercel** (frontend) and **Hugging Face Spaces** (backends).
 
 - [Memlore AI – Memory-Based Personal AI Assistant](https://memlore.vercel.app/):
